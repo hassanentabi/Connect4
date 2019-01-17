@@ -7,7 +7,7 @@ editor Visual Studio 2015 <br>
 
 ---
 # shortcut 
-![Screenshot] shortcut1.PNG <br>
-![Screenshot] /shortcut/shortcut2.PNG
+![Screenshot] (/shortcut/shortcut1.PNG) <br>
+![Screenshot] (/shortcut/shortcut2.PNG)
 
 
